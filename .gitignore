@@ -1,0 +1,10 @@
+# Scala
+**/target
+
+## Metals
+.metals/
+metals.sbt
+
+## Bloop
+.bsp/
+.bloop/
